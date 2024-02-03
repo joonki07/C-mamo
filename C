@@ -25,3 +25,14 @@
 
 
 
+#include <stdio.h>
+
+int main()
+{
+   int number;
+   number = 10;
+   
+   printf("변수 number의 값은 %d입니다.", number);
+   
+   return 0;
+}
